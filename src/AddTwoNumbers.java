@@ -1,5 +1,3 @@
-import ListNode;
-
 public class AddTwoNumbers {
 	    
 	public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
