@@ -111,7 +111,6 @@ public class AddTwoNumbers {
 			System.out.print(current.val);
 			
 			current = current.next;
-			
 		}
 
 	}
